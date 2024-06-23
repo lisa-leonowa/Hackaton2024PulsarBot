@@ -1,0 +1,1 @@
+This folder stores photos sent by users until they receive a response to the photos sent.
